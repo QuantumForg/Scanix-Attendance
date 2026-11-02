@@ -66,7 +66,7 @@ Frontend simply imports these functions and displays results.
 
 ---
 
-**IBM Project List – Project #1**
+**Mini Project List – Project #1**
 
 ## Excel Management Feature
 
