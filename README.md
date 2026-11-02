@@ -1,6 +1,6 @@
 # AI-Based Smart Attendance Monitoring System
 
-**IBM Project** | Frontend + Backend Separated Architecture
+| Frontend + Backend Separated Architecture
 
 Built with **Python + Streamlit (Frontend) + DeepFace + Groq**
 
